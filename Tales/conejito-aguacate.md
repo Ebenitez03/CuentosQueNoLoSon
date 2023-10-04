@@ -1,8 +1,8 @@
-Título{
+Título(
     El conejito aguacate que solo quería
     ser feliz contigo
-}
-Historia{
+    )
+Historia(
     El pequeño conejito
     solo se encontraba.
 
@@ -13,4 +13,4 @@ Historia{
     ¿Puedo ser feliz contigo?
     Preguntó curioso.
     Y tú callaste. Shhh.
-}
+)
